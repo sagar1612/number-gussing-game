@@ -1,1 +1,1 @@
-# number-gussing-game
+it is like a game in which you 1st enter your name and then guess  the number and if you guess the right  number then you win the game .it always choose and random number all time whenever you start it.
